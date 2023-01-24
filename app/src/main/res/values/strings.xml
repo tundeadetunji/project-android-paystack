@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kingstar Payments</string>
+    <string name="Authorization">Bearer secret_key_here</string>
+    <string name="Email">account_email_here</string>
+    <string name="SettingsLabel">Settings</string>
+    <string name="PaymentsLabel">Make a payment</string>
+</resources>
